@@ -15,7 +15,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node ./server.js"
+    "start": "nodemon ./index.js"
   },
   "author": "",
   "license": "ISC",
